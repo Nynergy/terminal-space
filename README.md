@@ -15,5 +15,8 @@ given a small shuttle to explore charted space, make a profit through
 interstellar trade, and perhaps get tangled up in a universe-spanning conflict
 that threatens their life. Y'know, _fun_.
 
+This game is played in the terminal, using my ncurses extension library,
+[vexes](https://github.com/Nynergy/vexes).
+
 At the moment there isn't much to see. Come back when there's some actual
 gameplay to be had. :)
