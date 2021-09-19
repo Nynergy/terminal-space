@@ -5,8 +5,6 @@
 class GamePanel : public Panel {
 
 private:
-    // TODO: Remove the Hello World rendering
-    void drawHelloWorld();
     std::string truncateStringByLength(std::string str, int length);
 
 public:
